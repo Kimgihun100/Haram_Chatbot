@@ -52,7 +52,7 @@ document.addEventListener('DOMContentLoaded', () => {
     });
 
     exitImg.addEventListener('click', () => {
-        window.location.href = 'https://www.youtube.com'; // 메인 페이지로 이동
+        window.location.href = 'index.html'; // 메인 페이지로 이동
     });
 
     // 메시지 입력창의 동적 크기 조정
